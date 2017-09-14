@@ -9,7 +9,7 @@ disqus: 1
 ---
 
 <ul class="pager">
-#this should say previous chapter if it is he index page of the chapter
+#this should say previous chapter if it is the index page of the chapter
   <li class="previous"><a href="/avatax/dev-guide/CHAPTER/SECTION/"><i class="glyphicon glyphicon-chevron-left"></i>Previous</a></li>
 #this should say next chapter if it is a chapter summary
   <li class="next"><a href="/avatax/dev-guide/CHAPTER/SECTION/">Next<i class="glyphicon glyphicon-chevron-right"></i></a></li>
